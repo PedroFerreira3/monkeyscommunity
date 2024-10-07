@@ -1,0 +1,147 @@
+body{
+    background-image: url("background1.jpg");
+    background-size: cover;
+}
+
+.card{
+  width: 400px;
+  border: none;
+  border-radius: 10px;
+
+  background-color: #F2F0EF;
+}
+
+.stats{
+    background: #f2f5f8 !important;
+    color: #000 !important;
+}
+.articles{
+  font-size:10px;
+  color: #a1aab9;
+}
+.number1{
+  font-weight:500;
+}
+.followers{
+    font-size:10px;
+  color: #a1aab9;
+
+}
+.number2{
+  font-weight:500;
+}
+.rating{
+    font-size:10px;
+  color: #a1aab9;
+}
+.number3{
+  font-weight:500;
+}
+
+.meupost{
+    background: #D0DCC4 !important;
+    border-radius: 10px;
+}
+
+.nav-link{
+    border-radius: 20px;
+    transition: border-radius 0.3s;
+
+}
+.nav-link:hover{
+    text-decoration: solid #FFF underline 2.5px;
+}
+
+nav{
+    background: transparent;
+    backdrop-filter: blur(2px);
+}
+
+.titulo-login{
+    font-weight: bolder;
+    color: #ffbc4d;
+}
+
+.login-campo{
+    backdrop-filter: blur(2px);
+}
+
+.criar-usuario{
+    color:	#c9df8a;
+}
+
+.legenda-criar_conta{
+    font-weight: bold;
+}
+
+.fazer_login{
+    color:	#c9df8a;
+}
+
+.legenda-login{
+    font-weight: bold;
+}
+
+.border{
+    backdrop-filter: blur(2px);
+}
+
+.titulo-home {
+    font-weight: bolder;
+    color: #FFFFFF;
+}
+
+.subtitulo-home{
+    font-weight: bold;
+    color: #FFD694;
+}
+
+.editar-perfil{
+    color: #c9df8a;
+}
+
+.card{
+    background-color: #D0DCC4;
+    width: 574px
+}
+
+.legenda-cursos-perfil{
+    color: #f0f7da;
+}
+
+.titulo-editar-perfil{
+    font-weight: bold;
+    color: #f0f7da;
+}
+
+.legenda-cursos-editar-perfil{
+    font-weight: bold;
+    color: #f0f7da;
+}
+
+.criar-post{
+    color: #f0f7da;
+}
+
+.titulo-criar-post {
+    font-weight: bold;
+    color: #f0f7da;
+}
+
+.legenda-editar-post{
+    font-weight: bold;
+    color: #f0f7da;
+}
+
+.editar-post{
+    color: #f0f7da;
+}
+
+.contato-titulo{
+    font-weight: bolder;
+    color: #FFFFFF;
+}
+
+.contato-img{
+    align-items: center;
+}
